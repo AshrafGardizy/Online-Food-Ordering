@@ -14,15 +14,16 @@ Technologies used for developing this projects:
   
   4- Framework: CodeIgniter 
   
-  Main Functionalitis:
+  
+ ## Main Functionalitis:
   
   
-  Customers can: SignUp, SignIn, Search for foods, Select and Order the food.
+  **Customers Can:** SignUp, SignIn, Search for foods, Select and Order the food.
   
   
-  Addmin can: Food Cetegory Management (add, update, delete) Food Management (add, update, delete), Staff Management (add, update, delete), Order Management (add, update, delete), Messages Management (add, update, delete), Reporting. 
+  **Addmin Can:** Food Cetegory Management (add, update, delete) Food Management (add, update, delete), Staff Management (add, update, delete), Order Management (add, update, delete), Messages Management (add, update, delete), Reporting. 
   
-  Database Tables:
+  **Database Tables:**
   
   1- admin
   
