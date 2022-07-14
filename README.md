@@ -2,7 +2,7 @@
 This project is an online food ordering system. Customers can order their favorite food online.
 
 
-**Technologies used for developing this projects: **
+**Technologies used for developing this projects:
 
 
   1- Client Side: HTML, CSS, JavaScript
