@@ -1,6 +1,8 @@
 # Online-Food-Ordering
 This project is an online food ordering system. Customers can order their favorite food online.
-Technologies used for developing this projects:
+
+
+**Technologies used for developing this projects: **
 
 
   1- Client Side: HTML, CSS, JavaScript
@@ -18,7 +20,7 @@ Technologies used for developing this projects:
  ## Main Functionalitis:
   
   
-  **Customers Can:** SignUp, SignIn, Search for foods, Select and Order the food.
+  **Customers Can:** SignUp, SignIn, Select and Order the food, contact.
   
   
   **Addmin Can:** Food Cetegory Management (add, update, delete) Food Management (add, update, delete), Staff Management (add, update, delete), Order Management (add, update, delete), Messages Management (add, update, delete), Reporting. 
