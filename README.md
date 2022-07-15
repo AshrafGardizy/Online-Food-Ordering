@@ -47,11 +47,11 @@ Please follow the following steps for installation of this project:
 
 **Step 1:** Download this project 
 
-**Step 2: ** Download the XAMPP Server from this link: [Download XAMPP](https://www.apachefriends.org/download.html)
+**Step 2:** Download the XAMPP Server from this link: [Download XAMPP](https://www.apachefriends.org/download.html)
 
-**Step 4: ** Install XAMPP Server in your local machine
+**Step 4:** Install XAMPP Server in your local machine
 
-**Step 5: ** Unzip the source code of the project in htdocs folder of the XAMPP.
+**Step 5:** Unzip the source code of the project in htdocs folder of the XAMPP.
 
-** Step 6: ** Create a database according to Connection file of the project.
+**Step 6:** Create a database according to Connection file of the project.
   
